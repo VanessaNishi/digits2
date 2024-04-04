@@ -1,6 +1,3 @@
-<h1>Digits Webpage Guide
-<h3>A simple walkthrough of the digits website</h3>
-
 <img src="doc/landingss.png">
 
 <h5>This application will allow users to:
